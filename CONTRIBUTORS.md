@@ -1,7 +1,4 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
@@ -503,6 +500,11 @@ to explore life. Also, Python and Django Developer
 - Place: College Park, Maryland
 - Bio: Comp Sci student at the University of Maryland
 - GitHub: [Chris Sullivan](https://github.com/codemastermd)
+
+#### Name: [Christie](https://github.com/christiespk)
+ - Place: Spokane, Wa
+ - Bio: Pastry Chef
+ - GitHub: [Christiespk](https://github.com/christiespk)
 
 #### Name: [Christian Heinrichs](https://github.com/christianheinrichs)
 - Place: Germany
@@ -2418,6 +2420,11 @@ Noida
 - Bio: financial software consultant
 - Github: [tbdees](https://github.com/tbdees/)
 
+#### Name: Vallenain
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
 #### Name: [xenocideiwki] (https://github.com/xenocidewiki)
 - Place: Norway
 - Bio: Reverse Engineer
